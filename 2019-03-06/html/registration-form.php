@@ -1,6 +1,6 @@
 <?php require_once "backend/registration-form.php"; ?>
 <?php if($sekme !== 4): ?>
-<form class="" action="index.php" method="post" novalidate>
+<form class="" action="about.php" method="post" novalidate>
 
     <!-- <p>pirmasis</p> -->
     <?php /* foreach($errors as $error) { ?>

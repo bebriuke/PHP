@@ -1,4 +1,4 @@
-<?php require_once "functions.php"; ?>
+<?php require_once "backend/functions.php"; ?>
 
 <!DOCTYPE html>
 
@@ -15,8 +15,8 @@
 
   <body>
 
-    <?php require_once "registration-form.php"; ?>
+    <?php require_once "html/registration-form.php"; ?>
 
-    <?php require_once "footer.php"; ?>
+    <?php require_once "html/footer.php"; ?>
   </body>
 </html>
